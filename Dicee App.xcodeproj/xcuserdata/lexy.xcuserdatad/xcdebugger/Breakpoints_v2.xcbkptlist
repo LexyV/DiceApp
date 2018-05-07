@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dicee App/ViewController.swift"
+            timestampString = "547165856.132311"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_App.ViewController.randomDiceIndex1.getter : Swift.Int"
+                  moduleName = "Dicee App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexy/Desktop/App%20Development/Dicee%20App/Dicee%20App/ViewController.swift"
+                  timestampString = "547165871.276619"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_App.ViewController.randomDiceIndex1.setter : Swift.Int"
+                  moduleName = "Dicee App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexy/Desktop/App%20Development/Dicee%20App/Dicee%20App/ViewController.swift"
+                  timestampString = "547165871.392784"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_App.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Dicee_App.ViewController"
+                  moduleName = "Dicee App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexy/Desktop/App%20Development/Dicee%20App/Dicee%20App/ViewController.swift"
+                  timestampString = "547165871.396708"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "71">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_App.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Dicee_App.ViewController&gt;"
+                  moduleName = "Dicee App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexy/Desktop/App%20Development/Dicee%20App/Dicee%20App/ViewController.swift"
+                  timestampString = "547165871.400205"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
